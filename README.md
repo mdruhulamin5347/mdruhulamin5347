@@ -74,16 +74,15 @@ I'm Md. Ruhul Amin, a passionate Backend Developer with a strong foundation in *
 
 ### My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin5347&show_icons=true&locale=en&theme=dark" alt="mdruhulamin5347" width="49%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdruhulamin5347&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdruhulamin5347" width="49%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin5347&show_icons=true&locale=en&theme=dark" alt="mdruhulamin5347" width="49%" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdruhulamin5347&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdruhulamin5347" width="49%" height="250px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdruhulamin5347&theme=dark" alt="mdruhulamin5347" width="70%" />
 </p>
 
-### My Activity Graph
-### [![Md.Ruhul Amin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdruhulamin5347&theme=react-dark)](https://github.com/ashutosh00710/github-### readme-activity-graph)
+
 
 
 

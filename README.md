@@ -74,8 +74,8 @@ I'm Md. Ruhul Amin, a passionate Backend Developer with a strong foundation in *
 
 ### My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin5347&show_icons=true&locale=en&theme=dark" alt="mdruhulamin5347" width="49%" height="250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdruhulamin5347&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdruhulamin5347" width="49%" height="250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdruhulamin5347&show_icons=true&locale=en&theme=dark" alt="mdruhulamin5347" width="49%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdruhulamin5347&show_icons=true&locale=en&layout=compact&theme=dark" alt="mdruhulamin5347" width="49%" height="200px" />
 </p>
 
 <p align="center">

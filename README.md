@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ruhul Amin</h1>
 
 <h3 align="center">
-Backend Engineer • Full Stack Developer • Python & Django Developer • AI Enthusiast
+Software Engineer • Full Stack Developer • Python & Django Developer • AI Enthusiast
 </h3>
 
 <p align="center">

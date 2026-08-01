@@ -62,11 +62,11 @@ Recently, I'm expanding my expertise into **Artificial Intelligence**, **Machine
 <a href="https://www.codechef.com/users/mdruhulamin93" target="_blank">
 <img src="https://cdn.simpleicons.org/codechef" height="45"/>
 </a>
-</p>
 
 <a href="https://codeforces.com/profile/mdruhulamin93" target="_blank">
 <img src="https://cdn.simpleicons.org/codeforces" height="45"/>
 </a>
+</p>
 
 ---
 

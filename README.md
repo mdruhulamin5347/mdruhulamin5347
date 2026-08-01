@@ -22,9 +22,9 @@ Building scalable backend systems, modern web applications, and exploring AI-pow
 
 ## 👨‍💻 About Me
 
-I'm **Md. Ruhul Amin**, a passionate **Backend Engineer** from **Bangladesh** with **2+ years of professional experience** building scalable, secure, and high-performance web applications.
+I'm **Md. Ruhul Amin**, a passionate **Software Engineer** from **Bangladesh** with **2+ years of professional experience** building scalable, secure, and high-performance web applications.
 
-Currently working as a **Backend Engineer at Trodad International Ltd.**, where I primarily develop enterprise-level healthcare and business management systems using **Python, Django, Django REST Framework, PostgreSQL, Docker, Redis, WebSockets, and AWS**.
+Currently working as a **Software Engineer at Trodad International Ltd.**, where I primarily develop enterprise-level healthcare and business management systems using **Python, Django, Django REST Framework, PostgreSQL, Docker, Redis, WebSockets, and AWS**.
 
 Although my primary expertise is backend development, I also enjoy building modern frontend applications with **React** and **Next.js**, making me a backend-focused **Full Stack Engineer**.
 
@@ -46,8 +46,8 @@ Recently, I'm expanding my expertise into **Artificial Intelligence**, **Machine
 
 ## 🌐 Portfolio
 
-- 🌍 Portfolio: **https://mdruhuldev.xyz/**
-- 💼 Resume: **https://mdruhuldev.xyz/media/pdf/Md.Ruhul%20Amin(Django%20Developer).pdf**
+- 🌍 Portfolio: **https://mdruhuldev.vercel.app/**
+- 💼 Resume: **https://mdruhuldev.vercel.app/Md_Ruhul_Amin_Backend_Engineer_Resume.pdf**
 - 📧 Email: **mdruhulamin534793@gmail.com**
 
 ---
@@ -59,14 +59,14 @@ Recently, I'm expanding my expertise into **Artificial Intelligence**, **Machine
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="https://www.codechef.com/users/mdruhulamin93" target="_blank">
+<img src="https://cdn.simpleicons.org/codechef" height="45"/>
+</a>
+</p>
+
 <a href="https://codeforces.com/profile/mdruhulamin93" target="_blank">
 <img src="https://cdn.simpleicons.org/codeforces" height="45"/>
 </a>
-
-<a href="https://www.hackerearth.com/mdruhulamin53471" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerearth" height="45"/>
-</a>
-</p>
 
 ---
 
@@ -105,7 +105,7 @@ Recently, I'm expanding my expertise into **Artificial Intelligence**, **Machine
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
@@ -125,14 +125,6 @@ Recently, I'm expanding my expertise into **Artificial Intelligence**, **Machine
 
 # 🚀 Featured Projects
 
-### 💬 Realtime Private Chat
-
-Enterprise real-time messaging application built using Django Channels, WebSockets and Redis.
-
-🔗 https://livechat.mdruhuldev.xyz/
-
----
-
 ### 🏥 Radiolens
 
 Enterprise Healthcare Management & Radiology Information System (RIS)
@@ -147,6 +139,7 @@ Enterprise Healthcare Management & Radiology Information System (RIS)
 - AWS
 - WebSockets
 - DICOM
+- PACS
 - OHIF Viewer
 
 ---
